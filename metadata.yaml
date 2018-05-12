@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '43175'
     url: http://www.gutenberg.org/2009/agents/43175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45247#India-for-IndiansEnlarged-Edition
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
