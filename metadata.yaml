@@ -1,0 +1,46 @@
+_repo: India-for-IndiansEnlarged-Edition_45247
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Ghose, Moti Lal
+    alias: Ghosh, Moti Lal
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '43417'
+    url: http://www.gutenberg.org/2009/agents/43417
+covers:
+- cover_type: archival
+  image_path: 45247-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Das, Chitta Ranjan
+    aliases:
+    - Chittaranjan Das
+    - Das, C. R. (Chitta Ranjan)
+    - Das, Chittaranjan
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '37616'
+    url: http://www.gutenberg.org/2009/agents/37616
+    wikipedia: http://en.wikipedia.org/wiki/Chittaranjan_Das
+  editor:
+    agent_name: Patrika, A. B.
+    gutenberg_agent_id: '43175'
+    url: http://www.gutenberg.org/2009/agents/43175
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45247'
+  lccn: '75266673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Politics and government -- 1919-1947'
+- !lcc 'DS'
+title: 'India for Indians
+
+  Enlarged Edition'
+url: http://www.gutenberg.org/ebooks/45247
